@@ -1,0 +1,29 @@
+.avatar {
+    width: 200px;
+}
+
+.card {
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    border: 0;
+    padding: 20px;
+    background: #ffe5d9;
+    border-radius: 30px;
+    margin: 50px auto;
+    border-bottom: 5px solid #60463b;
+    border-right: 5px solid #60463b;
+    
+    
+}
+
+.card_text {
+    display: inline;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.italic {
+    font-style: italic;
+}
